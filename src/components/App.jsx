@@ -5,7 +5,7 @@ import TransactionHistory from "./TransactionHistory/TransactionHistory";
 import './Profile/Profile.css';
 import './Statistics/Statistics.css';
 import './FriendList/FriendList.css';
-import './TransactionHistory/TransactionHistory.css'
+import './TransactionHistory/TransactionHistory.css';
 
 
 
