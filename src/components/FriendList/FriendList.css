@@ -1,0 +1,39 @@
+.item_friends{
+display: flex;
+    align-items: center;
+
+    width: 500px;
+    border: 1px solid rgb(131, 129, 129);
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   
+}
+
+.status_friends{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 50px;
+    margin-left: 30px;
+
+  
+    background-color: rgb(233, 15, 15);
+}
+.status_friends-online{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 50px;
+    margin-left: 30px;
+    background-color: rgb(26, 206, 95);
+}
+.avatar_friends{
+    width: 50px;
+    height: 50px;
+    margin-right: 100px;
+}
+.name_friends{
+    font-size: 20px;
+    font-weight: 800;
+}
