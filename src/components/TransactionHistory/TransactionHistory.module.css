@@ -1,4 +1,4 @@
-.transaction-history{
+.transaction{
     width: 600px;
     text-align: center;
     margin-top: 100px;
@@ -12,7 +12,6 @@ thead {
 table{
     border-bottom: 1px solid rgb(59, 59, 59);
 }
-
 table {
     table-layout: fixed;
     width: 100%;
